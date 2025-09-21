@@ -63,9 +63,10 @@ I’m also sharpening my problem-solving skills through platforms like **LeetCod
   <a href="https://github.com/Ayush-rawat25/NewsApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=NewsApp&theme=radical" />
   </a>
-  <a href="https://github.com/Ayush-rawat25/E-Commerce-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=E-Commerce-Website&theme=radical" />
-  </a>
+  <a href="https://github.com/Ayush-rawat25/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=Portfolio&theme=radical" />
+</a>
+
 </p>
 
 
