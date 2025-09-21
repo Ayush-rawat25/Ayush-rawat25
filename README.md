@@ -9,7 +9,7 @@
 </p>
 
 🎓 2nd Year Computer Science student at Galgotias University  
-💻 Passionate about building **full-stack applications** & solving **DSA problems**  
+💻 Building **full-stack applications** & solving **DSA problems**  
 🌱 Currently diving deeper into **React, Node.js & System Design**  
 ⚡ Fun fact: I love late-night coding + debugging with coffee ☕  
 
@@ -54,19 +54,20 @@ I’m also sharpening my problem-solving skills through platforms like **LeetCod
 ## 📌 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/Ayush-rawat25/E-Commerce-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-Rawat&repo=Ecommerce-Website&theme=radical" />
+  <a href="https://github.com/Ayush-rawat25/SafeRoute">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=SafeRoute&theme=radical" />
   </a>
   <a href="https://github.com/Ayush-rawat25/Work-Scheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-Rawat&repo=AI-Calendar-Scheduler&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=Work-Scheduler&theme=radical" />
   </a>
   <a href="https://github.com/Ayush-rawat25/NewsApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-Rawat&repo=News-App&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=NewsApp&theme=radical" />
   </a>
-  <a href="https://github.com/Ayush-rawat25/Saferoute">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-Rawat&repo=SafeRoute&theme=radical" />
+  <a href="https://github.com/Ayush-rawat25/E-Commerce-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=E-Commerce-Website&theme=radical" />
   </a>
 </p>
+
 
 ---
 
