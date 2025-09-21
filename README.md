@@ -54,16 +54,16 @@ I’m also sharpening my problem-solving skills through platforms like **LeetCod
 ## 📌 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/Ayush-rawat25/SafeRoute">
+  <a href="https://saferoute-5dmy.onrender.com/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=SafeRoute&theme=radical" />
   </a>
   <a href="https://github.com/Ayush-rawat25/Work-Scheduler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=Work-Scheduler&theme=radical" />
   </a>
-  <a href="https://github.com/Ayush-rawat25/NewsApp">
+  <a href="https://newsmonkey-app-chi.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=NewsApp&theme=radical" />
   </a>
-  <a href="https://github.com/Ayush-rawat25/Portfolio">
+  <a href="https://portfolio-nine-pink-49.vercel.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-rawat25&repo=Portfolio&theme=radical" />
 </a>
 
