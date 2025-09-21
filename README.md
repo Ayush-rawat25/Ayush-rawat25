@@ -5,7 +5,7 @@
 # 👋 Hey there, I'm Ayush Rawat  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Contributor;DSA+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=007ACC&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
 
 🎓 3rd Year Computer Science student at Galgotias University  
